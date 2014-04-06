@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2014-03-10T11:37:17+08:00
-
-====== 抢购 ======
-Created 星期一 10 三月 2014
-
-3月24日 10：00抢购
