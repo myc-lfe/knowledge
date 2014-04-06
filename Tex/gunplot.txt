@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-03-11T11:14:46+08:00
+
+====== gunplot ======
+Created 星期二 11 三月 2014
+
+在日常写作和办公中，我们经常遇到一些数学、化学，物理的图形需要绘制。pgf/tikz是绘制矢量图图的一个不错的选择：
+ 
+      1）精准控制，对于需要绘制那些精确的图片，特别是几何学上的图片非常有帮助。
+
+　　2）语法和TeX/LaTeX类似，LaTeX的命令也在这里使用。
+
+　　3）比metapost更友好
+
+　　4）采用自然语言作为控制语言，符号化不太严重，大量使用了比如 node distance,draw rectangle等大量有语意的命令，很多命令可以凭感觉猜到。
+
+　　5）能和gnuplot集成在一起，在 PGF/TiKZ可以直接使用gnuplot的命令，这样绘制类似sin(x),sin(x)/x就要方便很多，这是非常有特色的功能！
+
+　　6）和beamer能很好结合，事实上beamer和PGF/TiKZ属于同一个作者--Till Tantau教授

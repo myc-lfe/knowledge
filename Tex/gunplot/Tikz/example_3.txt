@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-03-12T20:08:06+08:00
+
+====== example 3 ======
+Created 星期三 12 三月 2014
+
+\documentclass{standalone}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=4]
+	\draw [<->] (1,0) node [below] {$q$}--(0,0)--(0,1) node [left] {$V(q)$};
+	\draw [very thick] (0,0) to [out=90, in=145] (0.9,0.6);
+\end{tikzpicture}
+
+\end{document}

@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-03-21T10:19:10+08:00
+
+====== 1.2.2 酶催化剂 ======
+Created 星期五 21 三月 2014
+
+	酶指具有生物催化功能的高分子物质，在酶的催化开环聚合体系中，酶以内酯为其底物并将其转化为高分子聚合物。酶催化的反应具有高度的专一性，反应条件温和的优点，是一种公认的环境友好的催化方法。常用的酶有猪胰腺酶、假单细胞酶、假丝酵母酶以及脂肪酶。
+	酶催化合成聚酯是从20世纪80年代就开始了，到现在为止已经合成了多种结构的聚酯，其中包括了线性聚合物、功能型聚合物以及嵌段共聚物，现在也是研究的热点之一。
+	1993 年，Uyama[1-2] 首次使用柱状假丝酵母脂肪酶（lipas B)和荧光假单胞菌脂肪酶（lipas P)来催化己内酯的开环聚合反应，lipas B 和 lipas P 都表现出很高的催化效率，在60度和75度时，单体的转化率分别达到了90% 和 92%。在酶浓度相同时， 一定范围内，PCL的相对分子量随着反应时间的增加而增大，而且增加酶的浓度，反应物的分子量有所增加。温度方面，酶催化在较低温度下的产生聚合物较为规整，分散度系数较低（1.2-1.4），而在60-75度时虽然能达到很高的转化率，但是分散度较高（1.2-1.22）。后续的研究集中在对4到17元环的单体进行开环聚合研究以获得对应的聚酯[3]。在这些聚合过程中，需要大量的酶来进行催化（占单体重量的20-50%）[4]，同时由于酶结构的复杂性使得其反应机理也存在争议。 
+	在过去的三年里，酶催化取得了很大的进展，合成出了许多功能型材料聚酯，然后一些明显的问题仍然未得到解决，比如尚未摆脱催化剂用量大，反应时间长，成本过高的问题。值得注意的是，酶的高选择性提供了结构上反应的专一性但同时也限制了它只能催化特定的反应或产生特定的构型，得到的聚合物较低，难以实际投入应用。
+{{./pasted_image.png}}
+
+ (1) synthesis of polyesters by enzymatic ring-opening copolmerization using lipase catalyst (1993)
+ (2) Enzymatic ring-opening polymerization of lactones to polyesters by lipase catalyst: unusually high reactivity of macrolides (1995)
+[3] D. Knani, A. Gutman, D. Kohn, J. Polym. Sci., Part A: Polym.
+Chem. 1993, 31, 1221.
+[4] H. Uyama, K. Takeya, N. Hoshi, S. Kobayahsi, Macro-
+molecules 1995, 28, 7046.
+ (5) Synthesis of polycaprolactone using free/supported enzymatic and non-enzymatic catalysts (2004)
+
+[6] Ma J, Li Q, Song B, Liu D, Zheng B, Zhang Z, Feng Y. Ring-opening polymeriza-
+tion of ␧-caprolactone catalyzed by a novel thermophilic esterase from the
+archaeon Archaeoglobus fulgidus. J Mol Catal B: Enzym 2009;56:151–7.
+[7] Li Q, Li G, Yu S, Zhang Z, Ma F, Feng Y. Ring-opening polymerization of ␧-
+caprolactone catalyzed by a novel thermophilic lipase from Fervidobacterium
+nodosum. Process Biochem 2011;46:253–7.
+[8] Li Q, Li G, Ma F, Zhang Z, Zheng B, Feng Y. Highly efficient ring-opening
+polymerization of ␧-caprolactone catalyzed by a recombinant Escherichia coli
+whole-cell biocatalyst. Process Biochem 2011;46:477–81.
+[9] Li Q, Li G, Shi W. Thermophilic lipase and recombinant Escherichia coli whole-
+cell: novel biocatalysts for the synthesis of biodegradable polyesters. J Control
+Release 2011;152:e221–3.
+[10] Li G, Li Q. Thermophilic esterase from the archaeon Archaeoglobus fulgidus
+physically immobilized on hydrophobic macroporous resin: a novel bio-
+catalyst for polyester synthesis. Biotechnol Bioprocess Eng 2011;16:
+1201–7.
+[11] Cao H, Han H, Li G, Yang J, Zhang L, Yang Y, Fang X, Li Q. Biocatalytic synthesis
+of poly(␦-valerolactone) using a thermophilic esterase from Archaeoglobus
+fulgidus as catalyst. Int J Mol Sci 2012;13:12232–41.
+[12] Sun Y, Yang Y, Wang C, Liu J, Shi W, Zhu X, Lu L, Li Q. Cell debris self-
+immobilized thermophilic lipase: a biocatalyst for synthesizing aliphatic
+polyester. Appl Biochem Biotechnol 2013;170:399–405.
+综述
+[13] Yang Y, Yu Y, Zhang Y, Liu C, Shi W, Li Q. Lipase/esterase-catalyzed ring-
+opening polymerization: a green polyester synthesis technique. Process
+Biochem 2011;46:1900–8.
+[14] Yu Y, Wu D, Liu C, Zhao Z, Yang Y, Li Q. Lipase/esterase-catalyzed synthe-
+sis of aliphatic polyesters via polycondensation: a review. Process Biochem
+2012;47:1027–36.

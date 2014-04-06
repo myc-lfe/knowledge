@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-03-12T19:55:33+08:00
+
+====== example 2 ======
+Created 星期三 12 三月 2014
+
+\documentclass{beamer}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{frame}
+
+\begin{tikzpicture}
+	\draw [-][draw=red, very thick](0,0)--(0, 3);
+	\draw [-][draw=green, very thick] (0, 3) -- (0, 8);
+	\draw [thick] (-0.2, 0) -- (0.2, 0);
+	\draw [thick] (-0.2, 1) -- (0.2, 1) node[align=left, right]{$q_1$ vendue\\au prix $p_1$};
+	\node [right] at (0,3) {d\'epend de $p_1$ et $p_2$};
+	\draw [thick] (-0.2, 6) -- (0.2, 6) node[align=left, right]{$q_2$ vendue\\au prix $p_2$};
+	\draw [thick] (-0.2, 8) -- (0.2, 8);
+	
+\end{tikzpicture}
+
+\end{frame}
+
+\end{document}
